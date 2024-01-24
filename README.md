@@ -1,7 +1,7 @@
 # Portfólio 
 
 Bem-vindo ao meu portfólio! Este repositório contém o código fonte do meu portfólio pessoal, que destaca minhas habilidades, projetos e informações sobre mim.
-![image]([https://github.com/esther0012/meuPortif-lio/blob/main/imagensProjetos/portif2.png])
+![image](https://github.com/esther0012/meuPortif-lio/blob/main/imagensProjetos/portif2.png)
 ## Visão Geral
 
 Meu portfólio foi desenvolvido com HTML, CSS, JavaScript e SASS. Ele contém informações sobre mim, minhas habilidades, projetos em que trabalhei e maneiras de me contatar. É uma vitrine das minhas habilidades de desenvolvimento web e uma amostra dos meus projetos.
