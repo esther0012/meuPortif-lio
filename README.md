@@ -1,7 +1,7 @@
 # Portfólio 
 
 Bem-vindo ao meu portfólio! Este repositório contém o código fonte do meu portfólio pessoal, que destaca minhas habilidades, projetos e informações sobre mim.
-![image](https://github.com/Viniciuxbento/Portifolio/assets/112340372/706d1cca-3fba-4e20-8e73-12113b6b71c1)
+![image]([https://github.com/esther0012/meuPortif-lio/blob/main/imagensProjetos/portif2.png])
 ## Visão Geral
 
 Meu portfólio foi desenvolvido com HTML, CSS, JavaScript e SASS. Ele contém informações sobre mim, minhas habilidades, projetos em que trabalhei e maneiras de me contatar. É uma vitrine das minhas habilidades de desenvolvimento web e uma amostra dos meus projetos.
@@ -25,9 +25,9 @@ Meu portfólio foi desenvolvido com HTML, CSS, JavaScript e SASS. Ele contém in
 
 ## Contato
 
-- [Portfólio Online](https://viniciuxbento.github.io/Portifolio/)
-- [LinkedIn](https://www.linkedin.com/in/vinicius-bento-b4313a197)
-- [GitHub](https://github.com/Viniciuxbento)
+- [Portfólio Online](https://esther0012.github.io/meuPortifolio/)
+- [LinkedIn]([https://www.linkedin.com/in/esther-massabane-mynssen/])
+- [GitHub](https://github.com/esther0012)
 - Email: vinicius_bento10@hotmail.com
 
 
