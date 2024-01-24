@@ -26,8 +26,8 @@ Meu portfólio foi desenvolvido com HTML, CSS, JavaScript e SASS. Ele contém in
 ## Contato
 
 - [Portfólio Online](https://esther0012.github.io/meuPortifolio/)
-- [LinkedIn]([https://www.linkedin.com/in/esther-massabane-mynssen/])
+- [LinkedIn]([[https://www.linkedin.com/in/esther-massabane-mynssen/])
 - [GitHub](https://github.com/esther0012)
-- Email: vinicius_bento10@hotmail.com
+- Email: esthermassabane08@gmail.com
 
 
